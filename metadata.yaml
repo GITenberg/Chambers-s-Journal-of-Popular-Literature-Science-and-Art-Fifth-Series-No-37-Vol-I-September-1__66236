@@ -1,0 +1,29 @@
+_repo: Chambers-s-Journal-of-Popular-Literature-Science-and-Art-Fifth-Series-No-37-Vol-I-September-1__66236
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Chambers, Robert
+    alias: Chambers, R. (Robert)
+    birthdate: 1802
+    deathdate: 1871
+    gutenberg_agent_id: '5276'
+    url: http://www.gutenberg.org/2009/agents/5276
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Chambers_(publisher,_born_1802)
+description: ''
+gutenberg_issued: '2021-09-07'
+identifiers:
+  gutenberg: '66236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Chambers's Journal of Popular Literature, Science, and Art, Fifth Series, No.
+  37, Vol. I, September 13, 1884
+url: http://www.gutenberg.org/ebooks/66236
